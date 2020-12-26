@@ -15,11 +15,11 @@ If you find something thought provoking **we'd love a pull request**!
 
 -----
 
-### Leading 0 house numbers
+### Leading 0 house numbers, pre-2020
 
 > *In Portland, there are Zero-Leading Addresses that are different from non-Zero-Leading addresses. Said another way, there could be two separate residences ~1 mile apart, that have almost the exact same address, with the only differentiation being a leading-zero on the number (not really a number in that case). Trimming off leading zeros from address numbers is not a valid practice for addresses in Portland.*
 >
-> *see: https://en.wikipedia.org/wiki/Portland,_Oregon#Neighborhoods “East-West addresses in this area are denoted with a leading zero (instead of a minus sign). This means 0246 SW California St. is not the same as 246 SW California St. Many mapping programs are unable to distinguish...”*
+> *see: https://en.wikipedia.org/wiki/Portland,_Oregon#Neighborhoods “East-West addresses in this area are denoted with a leading zero (instead of a minus sign). This means 0246 SW California St. is not the same as 246 SW California St.... Starting on May 1, 2020, former Southwest prefix addresses with house numbers on east–west streets leading with zero dropped the zero and the street prefix on all streets (including north–south streets) converted from Southwest to South. For example, the current address of 246 S. California St. was changed from 0246 SW California St. and the current address of 4310 S. Macadam Ave. was converted from 4310 SW Macadam Ave. effective on May 1, 2020."*
 >
 > *TriMet*
 
